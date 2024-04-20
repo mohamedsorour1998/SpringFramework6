@@ -1,13 +1,13 @@
-package springframework.springframework;
+package app.rosettacloud.ProjectAlpha;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringframeworkApplication {
+public class ProjectAlphaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringframeworkApplication.class, args);
+		SpringApplication.run(ProjectAlphaApplication.class, args);
 	}
 
 }
